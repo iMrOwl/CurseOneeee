@@ -7,5 +7,9 @@
 
 import Foundation
 
-print("Hello, World!")
 
+let name = "Вася"
+
+let summa = 1 + 1
+
+print(summa, name)
